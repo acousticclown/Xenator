@@ -1,2 +1,4 @@
 # Xenator
-A Speech recognition system that runs basic Programming commands and give output
+This Version of Xenator is not being managed now. Come again for newer updates in future.
+Thank You
+- Team Xenesis
